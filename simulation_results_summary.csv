@@ -1,0 +1,2001 @@
+game_id,Blue Jays,Dodgers,winner
+Game_1,10,5,Blue Jays
+Game_2,5,8,Dodgers
+Game_3,3,6,Dodgers
+Game_4,5,2,Blue Jays
+Game_5,4,3,Blue Jays
+Game_6,0,4,Dodgers
+Game_7,3,2,Blue Jays
+Game_8,3,9,Dodgers
+Game_9,5,3,Blue Jays
+Game_10,7,1,Blue Jays
+Game_11,2,0,Blue Jays
+Game_12,7,4,Blue Jays
+Game_13,6,10,Dodgers
+Game_14,1,6,Dodgers
+Game_15,10,5,Blue Jays
+Game_16,4,6,Dodgers
+Game_17,3,5,Dodgers
+Game_18,4,9,Dodgers
+Game_19,7,2,Blue Jays
+Game_20,10,8,Blue Jays
+Game_21,0,13,Dodgers
+Game_22,11,15,Dodgers
+Game_23,9,3,Blue Jays
+Game_24,0,6,Dodgers
+Game_25,5,12,Dodgers
+Game_26,2,4,Dodgers
+Game_27,9,2,Blue Jays
+Game_28,2,1,Blue Jays
+Game_29,5,2,Blue Jays
+Game_30,7,5,Blue Jays
+Game_31,1,2,Dodgers
+Game_32,8,7,Blue Jays
+Game_33,2,4,Dodgers
+Game_34,5,4,Blue Jays
+Game_35,8,6,Blue Jays
+Game_36,0,9,Dodgers
+Game_37,2,9,Dodgers
+Game_38,4,8,Dodgers
+Game_39,5,4,Blue Jays
+Game_40,9,0,Blue Jays
+Game_41,16,2,Blue Jays
+Game_42,5,4,Blue Jays
+Game_43,3,2,Blue Jays
+Game_44,5,1,Blue Jays
+Game_45,9,7,Blue Jays
+Game_46,4,3,Blue Jays
+Game_47,0,6,Dodgers
+Game_48,5,4,Blue Jays
+Game_49,3,2,Blue Jays
+Game_50,2,1,Blue Jays
+Game_51,1,4,Dodgers
+Game_52,5,4,Blue Jays
+Game_53,0,3,Dodgers
+Game_54,7,3,Blue Jays
+Game_55,4,3,Blue Jays
+Game_56,2,3,Dodgers
+Game_57,17,7,Blue Jays
+Game_58,1,4,Dodgers
+Game_59,1,7,Dodgers
+Game_60,2,3,Dodgers
+Game_61,4,2,Blue Jays
+Game_62,4,2,Blue Jays
+Game_63,6,8,Dodgers
+Game_64,0,7,Dodgers
+Game_65,2,8,Dodgers
+Game_66,0,12,Dodgers
+Game_67,0,3,Dodgers
+Game_68,3,1,Blue Jays
+Game_69,5,8,Dodgers
+Game_70,5,2,Blue Jays
+Game_71,8,16,Dodgers
+Game_72,4,11,Dodgers
+Game_73,7,4,Blue Jays
+Game_74,0,5,Dodgers
+Game_75,1,4,Dodgers
+Game_76,4,2,Blue Jays
+Game_77,4,1,Blue Jays
+Game_78,5,4,Blue Jays
+Game_79,3,2,Blue Jays
+Game_80,9,7,Blue Jays
+Game_81,0,10,Dodgers
+Game_82,2,7,Dodgers
+Game_83,3,5,Dodgers
+Game_84,0,6,Dodgers
+Game_85,0,9,Dodgers
+Game_86,3,1,Blue Jays
+Game_87,5,7,Dodgers
+Game_88,6,8,Dodgers
+Game_89,4,6,Dodgers
+Game_90,9,6,Blue Jays
+Game_91,3,5,Dodgers
+Game_92,10,4,Blue Jays
+Game_93,7,6,Blue Jays
+Game_94,4,8,Dodgers
+Game_95,6,8,Dodgers
+Game_96,3,1,Blue Jays
+Game_97,5,6,Dodgers
+Game_98,6,10,Dodgers
+Game_99,3,4,Dodgers
+Game_100,6,1,Blue Jays
+Game_101,8,4,Blue Jays
+Game_102,6,9,Dodgers
+Game_103,4,0,Blue Jays
+Game_104,3,0,Blue Jays
+Game_105,3,2,Blue Jays
+Game_106,8,5,Blue Jays
+Game_107,5,0,Blue Jays
+Game_108,2,1,Blue Jays
+Game_109,3,2,Blue Jays
+Game_110,3,2,Blue Jays
+Game_111,11,1,Blue Jays
+Game_112,5,3,Blue Jays
+Game_113,2,3,Dodgers
+Game_114,4,11,Dodgers
+Game_115,5,8,Dodgers
+Game_116,6,0,Blue Jays
+Game_117,6,3,Blue Jays
+Game_118,4,0,Blue Jays
+Game_119,6,3,Blue Jays
+Game_120,5,8,Dodgers
+Game_121,5,9,Dodgers
+Game_122,5,9,Dodgers
+Game_123,7,10,Dodgers
+Game_124,2,4,Dodgers
+Game_125,3,5,Dodgers
+Game_126,9,6,Blue Jays
+Game_127,8,4,Blue Jays
+Game_128,2,4,Dodgers
+Game_129,6,4,Blue Jays
+Game_130,1,7,Dodgers
+Game_131,4,2,Blue Jays
+Game_132,8,5,Blue Jays
+Game_133,0,3,Dodgers
+Game_134,2,10,Dodgers
+Game_135,1,2,Dodgers
+Game_136,11,5,Blue Jays
+Game_137,6,10,Dodgers
+Game_138,11,10,Blue Jays
+Game_139,3,9,Dodgers
+Game_140,6,2,Blue Jays
+Game_141,3,10,Dodgers
+Game_142,5,8,Dodgers
+Game_143,2,6,Dodgers
+Game_144,6,3,Blue Jays
+Game_145,3,0,Blue Jays
+Game_146,4,3,Blue Jays
+Game_147,8,5,Blue Jays
+Game_148,0,3,Dodgers
+Game_149,5,8,Dodgers
+Game_150,2,9,Dodgers
+Game_151,10,7,Blue Jays
+Game_152,8,10,Dodgers
+Game_153,5,6,Dodgers
+Game_154,2,8,Dodgers
+Game_155,5,7,Dodgers
+Game_156,4,2,Blue Jays
+Game_157,4,3,Blue Jays
+Game_158,10,4,Blue Jays
+Game_159,0,1,Dodgers
+Game_160,6,4,Blue Jays
+Game_161,8,9,Dodgers
+Game_162,1,7,Dodgers
+Game_163,11,9,Blue Jays
+Game_164,12,8,Blue Jays
+Game_165,7,3,Blue Jays
+Game_166,0,13,Dodgers
+Game_167,4,5,Dodgers
+Game_168,5,2,Blue Jays
+Game_169,10,6,Blue Jays
+Game_170,3,10,Dodgers
+Game_171,1,5,Dodgers
+Game_172,1,5,Dodgers
+Game_173,6,7,Dodgers
+Game_174,9,4,Blue Jays
+Game_175,8,3,Blue Jays
+Game_176,4,3,Blue Jays
+Game_177,8,7,Blue Jays
+Game_178,1,2,Dodgers
+Game_179,3,13,Dodgers
+Game_180,7,2,Blue Jays
+Game_181,9,1,Blue Jays
+Game_182,9,4,Blue Jays
+Game_183,6,2,Blue Jays
+Game_184,4,0,Blue Jays
+Game_185,8,10,Dodgers
+Game_186,3,9,Dodgers
+Game_187,8,7,Blue Jays
+Game_188,4,7,Dodgers
+Game_189,1,6,Dodgers
+Game_190,5,0,Blue Jays
+Game_191,2,0,Blue Jays
+Game_192,0,4,Dodgers
+Game_193,4,7,Dodgers
+Game_194,6,7,Dodgers
+Game_195,7,1,Blue Jays
+Game_196,3,2,Blue Jays
+Game_197,4,11,Dodgers
+Game_198,5,0,Blue Jays
+Game_199,4,11,Dodgers
+Game_200,2,1,Blue Jays
+Game_201,7,13,Dodgers
+Game_202,2,4,Dodgers
+Game_203,0,2,Dodgers
+Game_204,3,4,Dodgers
+Game_205,3,8,Dodgers
+Game_206,3,7,Dodgers
+Game_207,2,13,Dodgers
+Game_208,0,1,Dodgers
+Game_209,5,7,Dodgers
+Game_210,10,5,Blue Jays
+Game_211,6,5,Blue Jays
+Game_212,3,7,Dodgers
+Game_213,5,3,Blue Jays
+Game_214,0,1,Dodgers
+Game_215,0,7,Dodgers
+Game_216,4,6,Dodgers
+Game_217,1,4,Dodgers
+Game_218,5,1,Blue Jays
+Game_219,2,1,Blue Jays
+Game_220,8,0,Blue Jays
+Game_221,1,4,Dodgers
+Game_222,3,4,Dodgers
+Game_223,3,5,Dodgers
+Game_224,6,4,Blue Jays
+Game_225,0,4,Dodgers
+Game_226,7,1,Blue Jays
+Game_227,0,12,Dodgers
+Game_228,0,4,Dodgers
+Game_229,11,4,Blue Jays
+Game_230,7,2,Blue Jays
+Game_231,3,5,Dodgers
+Game_232,6,9,Dodgers
+Game_233,5,6,Dodgers
+Game_234,3,12,Dodgers
+Game_235,2,3,Dodgers
+Game_236,9,6,Blue Jays
+Game_237,4,5,Dodgers
+Game_238,5,11,Dodgers
+Game_239,10,2,Blue Jays
+Game_240,2,3,Dodgers
+Game_241,8,3,Blue Jays
+Game_242,4,1,Blue Jays
+Game_243,5,6,Dodgers
+Game_244,2,5,Dodgers
+Game_245,2,6,Dodgers
+Game_246,11,5,Blue Jays
+Game_247,2,9,Dodgers
+Game_248,12,4,Blue Jays
+Game_249,2,4,Dodgers
+Game_250,0,1,Dodgers
+Game_251,3,8,Dodgers
+Game_252,3,8,Dodgers
+Game_253,2,0,Blue Jays
+Game_254,3,7,Dodgers
+Game_255,0,5,Dodgers
+Game_256,6,1,Blue Jays
+Game_257,10,2,Blue Jays
+Game_258,9,5,Blue Jays
+Game_259,4,3,Blue Jays
+Game_260,3,2,Blue Jays
+Game_261,0,7,Dodgers
+Game_262,5,13,Dodgers
+Game_263,6,4,Blue Jays
+Game_264,0,1,Dodgers
+Game_265,8,6,Blue Jays
+Game_266,3,5,Dodgers
+Game_267,3,6,Dodgers
+Game_268,1,2,Dodgers
+Game_269,5,1,Blue Jays
+Game_270,8,7,Blue Jays
+Game_271,1,6,Dodgers
+Game_272,1,5,Dodgers
+Game_273,7,5,Blue Jays
+Game_274,1,3,Dodgers
+Game_275,16,10,Blue Jays
+Game_276,5,2,Blue Jays
+Game_277,7,6,Blue Jays
+Game_278,3,6,Dodgers
+Game_279,3,4,Dodgers
+Game_280,1,5,Dodgers
+Game_281,7,5,Blue Jays
+Game_282,2,5,Dodgers
+Game_283,1,2,Dodgers
+Game_284,2,3,Dodgers
+Game_285,3,6,Dodgers
+Game_286,5,4,Blue Jays
+Game_287,3,2,Blue Jays
+Game_288,6,8,Dodgers
+Game_289,6,4,Blue Jays
+Game_290,1,4,Dodgers
+Game_291,5,2,Blue Jays
+Game_292,2,9,Dodgers
+Game_293,5,7,Dodgers
+Game_294,5,2,Blue Jays
+Game_295,7,10,Dodgers
+Game_296,4,6,Dodgers
+Game_297,4,6,Dodgers
+Game_298,1,2,Dodgers
+Game_299,6,2,Blue Jays
+Game_300,3,7,Dodgers
+Game_301,5,8,Dodgers
+Game_302,16,12,Blue Jays
+Game_303,7,1,Blue Jays
+Game_304,2,10,Dodgers
+Game_305,0,1,Dodgers
+Game_306,6,7,Dodgers
+Game_307,1,3,Dodgers
+Game_308,2,4,Dodgers
+Game_309,1,4,Dodgers
+Game_310,0,12,Dodgers
+Game_311,3,15,Dodgers
+Game_312,7,0,Blue Jays
+Game_313,2,1,Blue Jays
+Game_314,4,2,Blue Jays
+Game_315,1,2,Dodgers
+Game_316,0,6,Dodgers
+Game_317,0,4,Dodgers
+Game_318,0,4,Dodgers
+Game_319,2,5,Dodgers
+Game_320,1,6,Dodgers
+Game_321,1,7,Dodgers
+Game_322,2,6,Dodgers
+Game_323,10,8,Blue Jays
+Game_324,4,6,Dodgers
+Game_325,3,2,Blue Jays
+Game_326,5,2,Blue Jays
+Game_327,1,3,Dodgers
+Game_328,4,8,Dodgers
+Game_329,6,5,Blue Jays
+Game_330,5,3,Blue Jays
+Game_331,12,10,Blue Jays
+Game_332,2,3,Dodgers
+Game_333,11,4,Blue Jays
+Game_334,5,4,Blue Jays
+Game_335,5,8,Dodgers
+Game_336,2,11,Dodgers
+Game_337,6,13,Dodgers
+Game_338,6,11,Dodgers
+Game_339,14,16,Dodgers
+Game_340,5,6,Dodgers
+Game_341,6,7,Dodgers
+Game_342,9,2,Blue Jays
+Game_343,5,2,Blue Jays
+Game_344,0,4,Dodgers
+Game_345,2,4,Dodgers
+Game_346,2,6,Dodgers
+Game_347,4,7,Dodgers
+Game_348,1,12,Dodgers
+Game_349,4,7,Dodgers
+Game_350,9,4,Blue Jays
+Game_351,1,5,Dodgers
+Game_352,7,2,Blue Jays
+Game_353,2,10,Dodgers
+Game_354,10,9,Blue Jays
+Game_355,8,9,Dodgers
+Game_356,6,3,Blue Jays
+Game_357,5,3,Blue Jays
+Game_358,4,8,Dodgers
+Game_359,6,8,Dodgers
+Game_360,2,6,Dodgers
+Game_361,1,11,Dodgers
+Game_362,6,5,Blue Jays
+Game_363,5,10,Dodgers
+Game_364,2,12,Dodgers
+Game_365,2,10,Dodgers
+Game_366,4,8,Dodgers
+Game_367,2,10,Dodgers
+Game_368,5,4,Blue Jays
+Game_369,3,2,Blue Jays
+Game_370,6,8,Dodgers
+Game_371,3,6,Dodgers
+Game_372,9,7,Blue Jays
+Game_373,1,3,Dodgers
+Game_374,4,12,Dodgers
+Game_375,4,1,Blue Jays
+Game_376,5,6,Dodgers
+Game_377,1,11,Dodgers
+Game_378,7,4,Blue Jays
+Game_379,3,4,Dodgers
+Game_380,4,1,Blue Jays
+Game_381,7,1,Blue Jays
+Game_382,6,7,Dodgers
+Game_383,9,6,Blue Jays
+Game_384,4,12,Dodgers
+Game_385,3,6,Dodgers
+Game_386,5,4,Blue Jays
+Game_387,9,2,Blue Jays
+Game_388,5,4,Blue Jays
+Game_389,9,3,Blue Jays
+Game_390,7,5,Blue Jays
+Game_391,4,2,Blue Jays
+Game_392,12,4,Blue Jays
+Game_393,4,1,Blue Jays
+Game_394,5,8,Dodgers
+Game_395,5,0,Blue Jays
+Game_396,1,7,Dodgers
+Game_397,4,11,Dodgers
+Game_398,5,1,Blue Jays
+Game_399,6,7,Dodgers
+Game_400,7,10,Dodgers
+Game_401,3,0,Blue Jays
+Game_402,9,11,Dodgers
+Game_403,5,6,Dodgers
+Game_404,7,9,Dodgers
+Game_405,2,0,Blue Jays
+Game_406,7,3,Blue Jays
+Game_407,5,7,Dodgers
+Game_408,1,3,Dodgers
+Game_409,2,6,Dodgers
+Game_410,10,1,Blue Jays
+Game_411,7,5,Blue Jays
+Game_412,4,5,Dodgers
+Game_413,3,6,Dodgers
+Game_414,5,4,Blue Jays
+Game_415,5,0,Blue Jays
+Game_416,2,10,Dodgers
+Game_417,4,5,Dodgers
+Game_418,4,1,Blue Jays
+Game_419,5,3,Blue Jays
+Game_420,15,6,Blue Jays
+Game_421,5,10,Dodgers
+Game_422,5,3,Blue Jays
+Game_423,5,4,Blue Jays
+Game_424,1,6,Dodgers
+Game_425,13,12,Blue Jays
+Game_426,5,4,Blue Jays
+Game_427,1,4,Dodgers
+Game_428,1,5,Dodgers
+Game_429,0,1,Dodgers
+Game_430,5,3,Blue Jays
+Game_431,2,3,Dodgers
+Game_432,7,3,Blue Jays
+Game_433,3,6,Dodgers
+Game_434,3,4,Dodgers
+Game_435,6,5,Blue Jays
+Game_436,4,1,Blue Jays
+Game_437,4,6,Dodgers
+Game_438,7,4,Blue Jays
+Game_439,4,6,Dodgers
+Game_440,7,12,Dodgers
+Game_441,8,2,Blue Jays
+Game_442,7,0,Blue Jays
+Game_443,4,8,Dodgers
+Game_444,6,3,Blue Jays
+Game_445,0,4,Dodgers
+Game_446,5,8,Dodgers
+Game_447,5,6,Dodgers
+Game_448,12,9,Blue Jays
+Game_449,6,5,Blue Jays
+Game_450,4,9,Dodgers
+Game_451,8,10,Dodgers
+Game_452,3,1,Blue Jays
+Game_453,6,2,Blue Jays
+Game_454,10,7,Blue Jays
+Game_455,1,8,Dodgers
+Game_456,4,3,Blue Jays
+Game_457,8,9,Dodgers
+Game_458,3,10,Dodgers
+Game_459,4,7,Dodgers
+Game_460,4,1,Blue Jays
+Game_461,7,5,Blue Jays
+Game_462,8,10,Dodgers
+Game_463,2,5,Dodgers
+Game_464,6,0,Blue Jays
+Game_465,0,4,Dodgers
+Game_466,15,3,Blue Jays
+Game_467,2,3,Dodgers
+Game_468,3,2,Blue Jays
+Game_469,0,7,Dodgers
+Game_470,7,3,Blue Jays
+Game_471,5,7,Dodgers
+Game_472,0,1,Dodgers
+Game_473,7,5,Blue Jays
+Game_474,6,9,Dodgers
+Game_475,6,5,Blue Jays
+Game_476,8,10,Dodgers
+Game_477,5,3,Blue Jays
+Game_478,3,1,Blue Jays
+Game_479,9,3,Blue Jays
+Game_480,3,7,Dodgers
+Game_481,4,9,Dodgers
+Game_482,4,5,Dodgers
+Game_483,0,2,Dodgers
+Game_484,6,1,Blue Jays
+Game_485,9,15,Dodgers
+Game_486,1,3,Dodgers
+Game_487,2,12,Dodgers
+Game_488,7,2,Blue Jays
+Game_489,6,3,Blue Jays
+Game_490,9,0,Blue Jays
+Game_491,8,9,Dodgers
+Game_492,1,7,Dodgers
+Game_493,0,2,Dodgers
+Game_494,5,6,Dodgers
+Game_495,3,2,Blue Jays
+Game_496,1,4,Dodgers
+Game_497,9,3,Blue Jays
+Game_498,8,12,Dodgers
+Game_499,4,8,Dodgers
+Game_500,2,5,Dodgers
+Game_501,7,5,Blue Jays
+Game_502,6,8,Dodgers
+Game_503,8,1,Blue Jays
+Game_504,3,5,Dodgers
+Game_505,3,6,Dodgers
+Game_506,5,6,Dodgers
+Game_507,0,3,Dodgers
+Game_508,8,2,Blue Jays
+Game_509,5,2,Blue Jays
+Game_510,1,0,Blue Jays
+Game_511,4,6,Dodgers
+Game_512,5,3,Blue Jays
+Game_513,9,2,Blue Jays
+Game_514,0,5,Dodgers
+Game_515,3,2,Blue Jays
+Game_516,2,1,Blue Jays
+Game_517,6,10,Dodgers
+Game_518,0,4,Dodgers
+Game_519,4,2,Blue Jays
+Game_520,0,8,Dodgers
+Game_521,5,9,Dodgers
+Game_522,4,0,Blue Jays
+Game_523,3,5,Dodgers
+Game_524,6,5,Blue Jays
+Game_525,0,9,Dodgers
+Game_526,4,5,Dodgers
+Game_527,12,4,Blue Jays
+Game_528,2,5,Dodgers
+Game_529,1,5,Dodgers
+Game_530,7,1,Blue Jays
+Game_531,2,8,Dodgers
+Game_532,6,9,Dodgers
+Game_533,11,8,Blue Jays
+Game_534,1,2,Dodgers
+Game_535,4,1,Blue Jays
+Game_536,9,10,Dodgers
+Game_537,10,5,Blue Jays
+Game_538,7,4,Blue Jays
+Game_539,5,2,Blue Jays
+Game_540,4,6,Dodgers
+Game_541,0,11,Dodgers
+Game_542,11,2,Blue Jays
+Game_543,8,7,Blue Jays
+Game_544,1,6,Dodgers
+Game_545,1,3,Dodgers
+Game_546,17,16,Blue Jays
+Game_547,4,3,Blue Jays
+Game_548,4,9,Dodgers
+Game_549,1,7,Dodgers
+Game_550,1,4,Dodgers
+Game_551,5,10,Dodgers
+Game_552,10,4,Blue Jays
+Game_553,1,9,Dodgers
+Game_554,3,2,Blue Jays
+Game_555,6,5,Blue Jays
+Game_556,8,7,Blue Jays
+Game_557,3,2,Blue Jays
+Game_558,1,10,Dodgers
+Game_559,4,8,Dodgers
+Game_560,6,1,Blue Jays
+Game_561,2,9,Dodgers
+Game_562,2,6,Dodgers
+Game_563,0,4,Dodgers
+Game_564,1,11,Dodgers
+Game_565,5,9,Dodgers
+Game_566,5,11,Dodgers
+Game_567,10,8,Blue Jays
+Game_568,4,9,Dodgers
+Game_569,1,10,Dodgers
+Game_570,2,10,Dodgers
+Game_571,4,5,Dodgers
+Game_572,3,2,Blue Jays
+Game_573,2,4,Dodgers
+Game_574,11,2,Blue Jays
+Game_575,3,1,Blue Jays
+Game_576,5,9,Dodgers
+Game_577,4,5,Dodgers
+Game_578,8,5,Blue Jays
+Game_579,7,6,Blue Jays
+Game_580,3,7,Dodgers
+Game_581,1,0,Blue Jays
+Game_582,0,6,Dodgers
+Game_583,9,2,Blue Jays
+Game_584,3,11,Dodgers
+Game_585,4,8,Dodgers
+Game_586,5,4,Blue Jays
+Game_587,3,1,Blue Jays
+Game_588,5,0,Blue Jays
+Game_589,2,7,Dodgers
+Game_590,6,1,Blue Jays
+Game_591,4,2,Blue Jays
+Game_592,12,4,Blue Jays
+Game_593,4,2,Blue Jays
+Game_594,3,6,Dodgers
+Game_595,4,2,Blue Jays
+Game_596,6,7,Dodgers
+Game_597,1,2,Dodgers
+Game_598,6,3,Blue Jays
+Game_599,3,2,Blue Jays
+Game_600,5,4,Blue Jays
+Game_601,6,5,Blue Jays
+Game_602,5,4,Blue Jays
+Game_603,9,1,Blue Jays
+Game_604,9,3,Blue Jays
+Game_605,13,0,Blue Jays
+Game_606,6,4,Blue Jays
+Game_607,1,2,Dodgers
+Game_608,8,1,Blue Jays
+Game_609,5,2,Blue Jays
+Game_610,8,1,Blue Jays
+Game_611,5,3,Blue Jays
+Game_612,8,3,Blue Jays
+Game_613,8,2,Blue Jays
+Game_614,2,4,Dodgers
+Game_615,5,1,Blue Jays
+Game_616,5,6,Dodgers
+Game_617,2,5,Dodgers
+Game_618,4,5,Dodgers
+Game_619,6,4,Blue Jays
+Game_620,2,7,Dodgers
+Game_621,4,8,Dodgers
+Game_622,2,7,Dodgers
+Game_623,5,6,Dodgers
+Game_624,4,8,Dodgers
+Game_625,0,6,Dodgers
+Game_626,3,5,Dodgers
+Game_627,5,9,Dodgers
+Game_628,8,7,Blue Jays
+Game_629,3,7,Dodgers
+Game_630,8,7,Blue Jays
+Game_631,6,4,Blue Jays
+Game_632,4,8,Dodgers
+Game_633,3,4,Dodgers
+Game_634,7,13,Dodgers
+Game_635,7,2,Blue Jays
+Game_636,12,10,Blue Jays
+Game_637,6,7,Dodgers
+Game_638,3,2,Blue Jays
+Game_639,6,5,Blue Jays
+Game_640,5,7,Dodgers
+Game_641,7,4,Blue Jays
+Game_642,4,2,Blue Jays
+Game_643,5,4,Blue Jays
+Game_644,1,0,Blue Jays
+Game_645,3,7,Dodgers
+Game_646,2,1,Blue Jays
+Game_647,1,6,Dodgers
+Game_648,1,4,Dodgers
+Game_649,2,3,Dodgers
+Game_650,5,4,Blue Jays
+Game_651,4,2,Blue Jays
+Game_652,3,1,Blue Jays
+Game_653,1,4,Dodgers
+Game_654,1,4,Dodgers
+Game_655,4,8,Dodgers
+Game_656,7,5,Blue Jays
+Game_657,9,7,Blue Jays
+Game_658,3,5,Dodgers
+Game_659,4,8,Dodgers
+Game_660,11,7,Blue Jays
+Game_661,3,1,Blue Jays
+Game_662,2,10,Dodgers
+Game_663,3,9,Dodgers
+Game_664,5,3,Blue Jays
+Game_665,5,2,Blue Jays
+Game_666,4,8,Dodgers
+Game_667,4,2,Blue Jays
+Game_668,3,11,Dodgers
+Game_669,3,2,Blue Jays
+Game_670,7,4,Blue Jays
+Game_671,5,6,Dodgers
+Game_672,1,10,Dodgers
+Game_673,9,4,Blue Jays
+Game_674,2,8,Dodgers
+Game_675,1,8,Dodgers
+Game_676,1,18,Dodgers
+Game_677,5,6,Dodgers
+Game_678,1,7,Dodgers
+Game_679,3,4,Dodgers
+Game_680,10,9,Blue Jays
+Game_681,9,8,Blue Jays
+Game_682,6,10,Dodgers
+Game_683,9,11,Dodgers
+Game_684,8,2,Blue Jays
+Game_685,0,5,Dodgers
+Game_686,0,2,Dodgers
+Game_687,1,9,Dodgers
+Game_688,3,7,Dodgers
+Game_689,1,4,Dodgers
+Game_690,1,6,Dodgers
+Game_691,6,7,Dodgers
+Game_692,8,3,Blue Jays
+Game_693,3,2,Blue Jays
+Game_694,7,8,Dodgers
+Game_695,5,2,Blue Jays
+Game_696,9,0,Blue Jays
+Game_697,2,5,Dodgers
+Game_698,0,8,Dodgers
+Game_699,7,9,Dodgers
+Game_700,3,6,Dodgers
+Game_701,0,3,Dodgers
+Game_702,3,2,Blue Jays
+Game_703,1,3,Dodgers
+Game_704,3,4,Dodgers
+Game_705,5,8,Dodgers
+Game_706,4,5,Dodgers
+Game_707,2,3,Dodgers
+Game_708,9,2,Blue Jays
+Game_709,5,0,Blue Jays
+Game_710,1,2,Dodgers
+Game_711,5,4,Blue Jays
+Game_712,3,6,Dodgers
+Game_713,11,7,Blue Jays
+Game_714,1,4,Dodgers
+Game_715,8,4,Blue Jays
+Game_716,0,6,Dodgers
+Game_717,4,17,Dodgers
+Game_718,3,13,Dodgers
+Game_719,3,5,Dodgers
+Game_720,3,8,Dodgers
+Game_721,2,6,Dodgers
+Game_722,3,9,Dodgers
+Game_723,0,6,Dodgers
+Game_724,10,3,Blue Jays
+Game_725,10,3,Blue Jays
+Game_726,3,2,Blue Jays
+Game_727,2,0,Blue Jays
+Game_728,8,3,Blue Jays
+Game_729,7,6,Blue Jays
+Game_730,7,3,Blue Jays
+Game_731,1,2,Dodgers
+Game_732,8,3,Blue Jays
+Game_733,1,10,Dodgers
+Game_734,6,4,Blue Jays
+Game_735,0,13,Dodgers
+Game_736,4,6,Dodgers
+Game_737,5,4,Blue Jays
+Game_738,3,0,Blue Jays
+Game_739,2,4,Dodgers
+Game_740,6,9,Dodgers
+Game_741,4,2,Blue Jays
+Game_742,6,1,Blue Jays
+Game_743,8,4,Blue Jays
+Game_744,8,9,Dodgers
+Game_745,3,4,Dodgers
+Game_746,1,4,Dodgers
+Game_747,5,4,Blue Jays
+Game_748,7,3,Blue Jays
+Game_749,5,7,Dodgers
+Game_750,5,2,Blue Jays
+Game_751,3,12,Dodgers
+Game_752,4,6,Dodgers
+Game_753,5,6,Dodgers
+Game_754,3,8,Dodgers
+Game_755,3,1,Blue Jays
+Game_756,8,2,Blue Jays
+Game_757,3,4,Dodgers
+Game_758,0,1,Dodgers
+Game_759,2,4,Dodgers
+Game_760,5,3,Blue Jays
+Game_761,8,1,Blue Jays
+Game_762,5,1,Blue Jays
+Game_763,5,8,Dodgers
+Game_764,5,4,Blue Jays
+Game_765,2,0,Blue Jays
+Game_766,2,6,Dodgers
+Game_767,9,15,Dodgers
+Game_768,3,11,Dodgers
+Game_769,4,3,Blue Jays
+Game_770,7,6,Blue Jays
+Game_771,0,4,Dodgers
+Game_772,3,0,Blue Jays
+Game_773,0,2,Dodgers
+Game_774,3,15,Dodgers
+Game_775,6,1,Blue Jays
+Game_776,3,1,Blue Jays
+Game_777,2,6,Dodgers
+Game_778,8,6,Blue Jays
+Game_779,3,15,Dodgers
+Game_780,3,0,Blue Jays
+Game_781,0,7,Dodgers
+Game_782,7,12,Dodgers
+Game_783,2,6,Dodgers
+Game_784,2,6,Dodgers
+Game_785,0,4,Dodgers
+Game_786,2,8,Dodgers
+Game_787,9,5,Blue Jays
+Game_788,3,4,Dodgers
+Game_789,4,3,Blue Jays
+Game_790,2,3,Dodgers
+Game_791,7,11,Dodgers
+Game_792,5,2,Blue Jays
+Game_793,1,5,Dodgers
+Game_794,6,2,Blue Jays
+Game_795,10,3,Blue Jays
+Game_796,4,7,Dodgers
+Game_797,10,4,Blue Jays
+Game_798,2,4,Dodgers
+Game_799,1,0,Blue Jays
+Game_800,2,10,Dodgers
+Game_801,8,10,Dodgers
+Game_802,2,4,Dodgers
+Game_803,5,13,Dodgers
+Game_804,1,5,Dodgers
+Game_805,3,7,Dodgers
+Game_806,4,6,Dodgers
+Game_807,4,3,Blue Jays
+Game_808,5,6,Dodgers
+Game_809,3,4,Dodgers
+Game_810,1,9,Dodgers
+Game_811,6,2,Blue Jays
+Game_812,3,7,Dodgers
+Game_813,12,0,Blue Jays
+Game_814,2,4,Dodgers
+Game_815,5,4,Blue Jays
+Game_816,6,1,Blue Jays
+Game_817,7,4,Blue Jays
+Game_818,5,7,Dodgers
+Game_819,9,13,Dodgers
+Game_820,0,2,Dodgers
+Game_821,3,1,Blue Jays
+Game_822,4,2,Blue Jays
+Game_823,1,9,Dodgers
+Game_824,4,0,Blue Jays
+Game_825,7,5,Blue Jays
+Game_826,5,10,Dodgers
+Game_827,0,8,Dodgers
+Game_828,4,3,Blue Jays
+Game_829,2,1,Blue Jays
+Game_830,2,3,Dodgers
+Game_831,4,3,Blue Jays
+Game_832,7,4,Blue Jays
+Game_833,7,10,Dodgers
+Game_834,5,3,Blue Jays
+Game_835,8,2,Blue Jays
+Game_836,3,0,Blue Jays
+Game_837,1,7,Dodgers
+Game_838,3,5,Dodgers
+Game_839,3,7,Dodgers
+Game_840,2,3,Dodgers
+Game_841,10,6,Blue Jays
+Game_842,7,8,Dodgers
+Game_843,4,5,Dodgers
+Game_844,13,5,Blue Jays
+Game_845,11,14,Dodgers
+Game_846,8,4,Blue Jays
+Game_847,8,5,Blue Jays
+Game_848,10,11,Dodgers
+Game_849,5,9,Dodgers
+Game_850,3,13,Dodgers
+Game_851,9,5,Blue Jays
+Game_852,4,6,Dodgers
+Game_853,0,1,Dodgers
+Game_854,4,10,Dodgers
+Game_855,6,5,Blue Jays
+Game_856,3,2,Blue Jays
+Game_857,9,3,Blue Jays
+Game_858,3,2,Blue Jays
+Game_859,0,8,Dodgers
+Game_860,11,4,Blue Jays
+Game_861,5,4,Blue Jays
+Game_862,1,3,Dodgers
+Game_863,6,3,Blue Jays
+Game_864,3,5,Dodgers
+Game_865,4,5,Dodgers
+Game_866,5,3,Blue Jays
+Game_867,5,9,Dodgers
+Game_868,6,2,Blue Jays
+Game_869,3,4,Dodgers
+Game_870,0,6,Dodgers
+Game_871,0,3,Dodgers
+Game_872,13,5,Blue Jays
+Game_873,8,5,Blue Jays
+Game_874,2,7,Dodgers
+Game_875,7,4,Blue Jays
+Game_876,3,4,Dodgers
+Game_877,2,5,Dodgers
+Game_878,3,4,Dodgers
+Game_879,1,5,Dodgers
+Game_880,8,2,Blue Jays
+Game_881,4,10,Dodgers
+Game_882,5,3,Blue Jays
+Game_883,0,3,Dodgers
+Game_884,5,6,Dodgers
+Game_885,2,5,Dodgers
+Game_886,7,2,Blue Jays
+Game_887,6,2,Blue Jays
+Game_888,4,2,Blue Jays
+Game_889,4,0,Blue Jays
+Game_890,1,3,Dodgers
+Game_891,3,10,Dodgers
+Game_892,0,1,Dodgers
+Game_893,6,7,Dodgers
+Game_894,1,6,Dodgers
+Game_895,4,6,Dodgers
+Game_896,4,1,Blue Jays
+Game_897,3,5,Dodgers
+Game_898,1,2,Dodgers
+Game_899,5,4,Blue Jays
+Game_900,5,4,Blue Jays
+Game_901,6,4,Blue Jays
+Game_902,2,19,Dodgers
+Game_903,6,5,Blue Jays
+Game_904,6,7,Dodgers
+Game_905,10,3,Blue Jays
+Game_906,4,3,Blue Jays
+Game_907,11,5,Blue Jays
+Game_908,3,4,Dodgers
+Game_909,9,12,Dodgers
+Game_910,6,1,Blue Jays
+Game_911,3,8,Dodgers
+Game_912,2,3,Dodgers
+Game_913,1,8,Dodgers
+Game_914,9,4,Blue Jays
+Game_915,3,5,Dodgers
+Game_916,6,4,Blue Jays
+Game_917,4,6,Dodgers
+Game_918,4,2,Blue Jays
+Game_919,8,3,Blue Jays
+Game_920,1,2,Dodgers
+Game_921,7,2,Blue Jays
+Game_922,7,6,Blue Jays
+Game_923,4,11,Dodgers
+Game_924,3,9,Dodgers
+Game_925,2,3,Dodgers
+Game_926,3,5,Dodgers
+Game_927,5,0,Blue Jays
+Game_928,5,6,Dodgers
+Game_929,6,4,Blue Jays
+Game_930,3,0,Blue Jays
+Game_931,9,3,Blue Jays
+Game_932,11,1,Blue Jays
+Game_933,7,4,Blue Jays
+Game_934,0,2,Dodgers
+Game_935,5,14,Dodgers
+Game_936,3,1,Blue Jays
+Game_937,5,2,Blue Jays
+Game_938,3,9,Dodgers
+Game_939,3,16,Dodgers
+Game_940,3,2,Blue Jays
+Game_941,6,3,Blue Jays
+Game_942,1,7,Dodgers
+Game_943,4,5,Dodgers
+Game_944,9,0,Blue Jays
+Game_945,6,14,Dodgers
+Game_946,6,0,Blue Jays
+Game_947,3,13,Dodgers
+Game_948,6,4,Blue Jays
+Game_949,4,13,Dodgers
+Game_950,3,12,Dodgers
+Game_951,3,7,Dodgers
+Game_952,12,1,Blue Jays
+Game_953,10,3,Blue Jays
+Game_954,0,2,Dodgers
+Game_955,1,11,Dodgers
+Game_956,3,0,Blue Jays
+Game_957,12,9,Blue Jays
+Game_958,10,8,Blue Jays
+Game_959,4,3,Blue Jays
+Game_960,2,4,Dodgers
+Game_961,5,2,Blue Jays
+Game_962,4,7,Dodgers
+Game_963,6,1,Blue Jays
+Game_964,10,1,Blue Jays
+Game_965,3,2,Blue Jays
+Game_966,4,6,Dodgers
+Game_967,3,0,Blue Jays
+Game_968,2,8,Dodgers
+Game_969,8,6,Blue Jays
+Game_970,2,4,Dodgers
+Game_971,1,0,Blue Jays
+Game_972,4,7,Dodgers
+Game_973,3,6,Dodgers
+Game_974,1,12,Dodgers
+Game_975,6,1,Blue Jays
+Game_976,7,12,Dodgers
+Game_977,6,11,Dodgers
+Game_978,10,5,Blue Jays
+Game_979,5,6,Dodgers
+Game_980,9,8,Blue Jays
+Game_981,5,0,Blue Jays
+Game_982,2,3,Dodgers
+Game_983,2,1,Blue Jays
+Game_984,7,8,Dodgers
+Game_985,11,6,Blue Jays
+Game_986,3,0,Blue Jays
+Game_987,5,4,Blue Jays
+Game_988,3,4,Dodgers
+Game_989,0,1,Dodgers
+Game_990,3,5,Dodgers
+Game_991,1,19,Dodgers
+Game_992,2,3,Dodgers
+Game_993,2,1,Blue Jays
+Game_994,4,2,Blue Jays
+Game_995,16,6,Blue Jays
+Game_996,7,3,Blue Jays
+Game_997,8,6,Blue Jays
+Game_998,0,3,Dodgers
+Game_999,7,3,Blue Jays
+Game_1000,2,5,Dodgers
+Game_1001,2,3,Dodgers
+Game_1002,5,1,Blue Jays
+Game_1003,4,0,Blue Jays
+Game_1004,1,3,Dodgers
+Game_1005,1,11,Dodgers
+Game_1006,0,5,Dodgers
+Game_1007,1,6,Dodgers
+Game_1008,6,3,Blue Jays
+Game_1009,3,2,Blue Jays
+Game_1010,3,4,Dodgers
+Game_1011,8,0,Blue Jays
+Game_1012,5,2,Blue Jays
+Game_1013,5,7,Dodgers
+Game_1014,0,4,Dodgers
+Game_1015,3,2,Blue Jays
+Game_1016,3,2,Blue Jays
+Game_1017,1,2,Dodgers
+Game_1018,6,0,Blue Jays
+Game_1019,7,0,Blue Jays
+Game_1020,1,2,Dodgers
+Game_1021,5,11,Dodgers
+Game_1022,7,0,Blue Jays
+Game_1023,3,4,Dodgers
+Game_1024,1,4,Dodgers
+Game_1025,2,3,Dodgers
+Game_1026,11,1,Blue Jays
+Game_1027,1,4,Dodgers
+Game_1028,1,5,Dodgers
+Game_1029,5,3,Blue Jays
+Game_1030,7,1,Blue Jays
+Game_1031,0,1,Dodgers
+Game_1032,3,2,Blue Jays
+Game_1033,6,12,Dodgers
+Game_1034,1,4,Dodgers
+Game_1035,10,3,Blue Jays
+Game_1036,3,1,Blue Jays
+Game_1037,4,3,Blue Jays
+Game_1038,5,4,Blue Jays
+Game_1039,8,10,Dodgers
+Game_1040,4,3,Blue Jays
+Game_1041,6,5,Blue Jays
+Game_1042,4,3,Blue Jays
+Game_1043,4,5,Dodgers
+Game_1044,1,0,Blue Jays
+Game_1045,8,10,Dodgers
+Game_1046,12,4,Blue Jays
+Game_1047,7,0,Blue Jays
+Game_1048,4,1,Blue Jays
+Game_1049,2,1,Blue Jays
+Game_1050,4,2,Blue Jays
+Game_1051,8,6,Blue Jays
+Game_1052,0,2,Dodgers
+Game_1053,5,1,Blue Jays
+Game_1054,4,1,Blue Jays
+Game_1055,3,4,Dodgers
+Game_1056,14,1,Blue Jays
+Game_1057,5,2,Blue Jays
+Game_1058,3,9,Dodgers
+Game_1059,8,5,Blue Jays
+Game_1060,8,10,Dodgers
+Game_1061,7,8,Dodgers
+Game_1062,4,16,Dodgers
+Game_1063,4,3,Blue Jays
+Game_1064,2,4,Dodgers
+Game_1065,4,0,Blue Jays
+Game_1066,9,8,Blue Jays
+Game_1067,5,3,Blue Jays
+Game_1068,0,9,Dodgers
+Game_1069,5,1,Blue Jays
+Game_1070,6,3,Blue Jays
+Game_1071,4,6,Dodgers
+Game_1072,2,11,Dodgers
+Game_1073,5,6,Dodgers
+Game_1074,2,4,Dodgers
+Game_1075,11,8,Blue Jays
+Game_1076,18,6,Blue Jays
+Game_1077,11,7,Blue Jays
+Game_1078,5,11,Dodgers
+Game_1079,9,1,Blue Jays
+Game_1080,5,3,Blue Jays
+Game_1081,3,7,Dodgers
+Game_1082,1,2,Dodgers
+Game_1083,3,2,Blue Jays
+Game_1084,3,0,Blue Jays
+Game_1085,0,5,Dodgers
+Game_1086,1,0,Blue Jays
+Game_1087,7,2,Blue Jays
+Game_1088,4,7,Dodgers
+Game_1089,4,1,Blue Jays
+Game_1090,2,1,Blue Jays
+Game_1091,1,4,Dodgers
+Game_1092,4,6,Dodgers
+Game_1093,8,5,Blue Jays
+Game_1094,7,8,Dodgers
+Game_1095,5,3,Blue Jays
+Game_1096,8,7,Blue Jays
+Game_1097,1,2,Dodgers
+Game_1098,5,3,Blue Jays
+Game_1099,3,2,Blue Jays
+Game_1100,3,5,Dodgers
+Game_1101,6,7,Dodgers
+Game_1102,1,6,Dodgers
+Game_1103,7,6,Blue Jays
+Game_1104,0,5,Dodgers
+Game_1105,6,11,Dodgers
+Game_1106,3,2,Blue Jays
+Game_1107,6,0,Blue Jays
+Game_1108,0,9,Dodgers
+Game_1109,3,4,Dodgers
+Game_1110,1,3,Dodgers
+Game_1111,6,0,Blue Jays
+Game_1112,5,8,Dodgers
+Game_1113,1,2,Dodgers
+Game_1114,3,8,Dodgers
+Game_1115,2,7,Dodgers
+Game_1116,4,3,Blue Jays
+Game_1117,8,2,Blue Jays
+Game_1118,1,10,Dodgers
+Game_1119,6,5,Blue Jays
+Game_1120,10,9,Blue Jays
+Game_1121,7,8,Dodgers
+Game_1122,2,5,Dodgers
+Game_1123,2,0,Blue Jays
+Game_1124,9,3,Blue Jays
+Game_1125,10,12,Dodgers
+Game_1126,4,0,Blue Jays
+Game_1127,5,8,Dodgers
+Game_1128,4,13,Dodgers
+Game_1129,3,5,Dodgers
+Game_1130,3,2,Blue Jays
+Game_1131,10,8,Blue Jays
+Game_1132,1,11,Dodgers
+Game_1133,6,5,Blue Jays
+Game_1134,6,2,Blue Jays
+Game_1135,7,6,Blue Jays
+Game_1136,7,8,Dodgers
+Game_1137,1,8,Dodgers
+Game_1138,5,6,Dodgers
+Game_1139,4,2,Blue Jays
+Game_1140,6,5,Blue Jays
+Game_1141,7,3,Blue Jays
+Game_1142,5,2,Blue Jays
+Game_1143,7,4,Blue Jays
+Game_1144,0,5,Dodgers
+Game_1145,7,12,Dodgers
+Game_1146,4,13,Dodgers
+Game_1147,7,0,Blue Jays
+Game_1148,8,4,Blue Jays
+Game_1149,3,4,Dodgers
+Game_1150,8,1,Blue Jays
+Game_1151,15,2,Blue Jays
+Game_1152,5,4,Blue Jays
+Game_1153,1,0,Blue Jays
+Game_1154,8,7,Blue Jays
+Game_1155,4,3,Blue Jays
+Game_1156,8,2,Blue Jays
+Game_1157,4,1,Blue Jays
+Game_1158,5,0,Blue Jays
+Game_1159,4,6,Dodgers
+Game_1160,6,5,Blue Jays
+Game_1161,2,0,Blue Jays
+Game_1162,6,11,Dodgers
+Game_1163,6,5,Blue Jays
+Game_1164,2,5,Dodgers
+Game_1165,2,4,Dodgers
+Game_1166,8,7,Blue Jays
+Game_1167,10,7,Blue Jays
+Game_1168,8,3,Blue Jays
+Game_1169,6,5,Blue Jays
+Game_1170,4,2,Blue Jays
+Game_1171,2,15,Dodgers
+Game_1172,9,5,Blue Jays
+Game_1173,1,6,Dodgers
+Game_1174,5,4,Blue Jays
+Game_1175,7,9,Dodgers
+Game_1176,8,2,Blue Jays
+Game_1177,6,3,Blue Jays
+Game_1178,6,2,Blue Jays
+Game_1179,0,9,Dodgers
+Game_1180,5,3,Blue Jays
+Game_1181,4,2,Blue Jays
+Game_1182,12,11,Blue Jays
+Game_1183,6,7,Dodgers
+Game_1184,4,6,Dodgers
+Game_1185,4,0,Blue Jays
+Game_1186,0,9,Dodgers
+Game_1187,2,3,Dodgers
+Game_1188,13,9,Blue Jays
+Game_1189,8,0,Blue Jays
+Game_1190,4,2,Blue Jays
+Game_1191,3,10,Dodgers
+Game_1192,6,3,Blue Jays
+Game_1193,5,3,Blue Jays
+Game_1194,1,3,Dodgers
+Game_1195,3,5,Dodgers
+Game_1196,3,2,Blue Jays
+Game_1197,5,3,Blue Jays
+Game_1198,5,2,Blue Jays
+Game_1199,5,10,Dodgers
+Game_1200,3,7,Dodgers
+Game_1201,0,2,Dodgers
+Game_1202,7,1,Blue Jays
+Game_1203,7,11,Dodgers
+Game_1204,3,2,Blue Jays
+Game_1205,4,1,Blue Jays
+Game_1206,5,14,Dodgers
+Game_1207,4,3,Blue Jays
+Game_1208,2,7,Dodgers
+Game_1209,3,1,Blue Jays
+Game_1210,18,0,Blue Jays
+Game_1211,9,7,Blue Jays
+Game_1212,6,8,Dodgers
+Game_1213,0,4,Dodgers
+Game_1214,11,8,Blue Jays
+Game_1215,5,4,Blue Jays
+Game_1216,4,9,Dodgers
+Game_1217,7,8,Dodgers
+Game_1218,3,4,Dodgers
+Game_1219,0,3,Dodgers
+Game_1220,2,4,Dodgers
+Game_1221,3,12,Dodgers
+Game_1222,1,10,Dodgers
+Game_1223,0,8,Dodgers
+Game_1224,4,2,Blue Jays
+Game_1225,3,6,Dodgers
+Game_1226,5,3,Blue Jays
+Game_1227,9,4,Blue Jays
+Game_1228,1,3,Dodgers
+Game_1229,3,7,Dodgers
+Game_1230,6,2,Blue Jays
+Game_1231,4,5,Dodgers
+Game_1232,2,10,Dodgers
+Game_1233,6,4,Blue Jays
+Game_1234,5,3,Blue Jays
+Game_1235,8,11,Dodgers
+Game_1236,9,11,Dodgers
+Game_1237,0,13,Dodgers
+Game_1238,6,8,Dodgers
+Game_1239,8,2,Blue Jays
+Game_1240,5,14,Dodgers
+Game_1241,2,3,Dodgers
+Game_1242,1,6,Dodgers
+Game_1243,2,1,Blue Jays
+Game_1244,1,6,Dodgers
+Game_1245,4,1,Blue Jays
+Game_1246,5,7,Dodgers
+Game_1247,6,5,Blue Jays
+Game_1248,5,3,Blue Jays
+Game_1249,5,7,Dodgers
+Game_1250,4,1,Blue Jays
+Game_1251,5,2,Blue Jays
+Game_1252,0,12,Dodgers
+Game_1253,4,6,Dodgers
+Game_1254,1,2,Dodgers
+Game_1255,1,7,Dodgers
+Game_1256,3,7,Dodgers
+Game_1257,4,2,Blue Jays
+Game_1258,3,5,Dodgers
+Game_1259,5,2,Blue Jays
+Game_1260,3,14,Dodgers
+Game_1261,3,4,Dodgers
+Game_1262,9,1,Blue Jays
+Game_1263,4,3,Blue Jays
+Game_1264,0,2,Dodgers
+Game_1265,10,11,Dodgers
+Game_1266,2,6,Dodgers
+Game_1267,0,8,Dodgers
+Game_1268,7,1,Blue Jays
+Game_1269,1,7,Dodgers
+Game_1270,2,0,Blue Jays
+Game_1271,4,5,Dodgers
+Game_1272,6,12,Dodgers
+Game_1273,5,6,Dodgers
+Game_1274,7,8,Dodgers
+Game_1275,3,1,Blue Jays
+Game_1276,6,7,Dodgers
+Game_1277,6,8,Dodgers
+Game_1278,3,10,Dodgers
+Game_1279,14,5,Blue Jays
+Game_1280,2,3,Dodgers
+Game_1281,0,11,Dodgers
+Game_1282,4,5,Dodgers
+Game_1283,8,6,Blue Jays
+Game_1284,4,11,Dodgers
+Game_1285,6,9,Dodgers
+Game_1286,1,6,Dodgers
+Game_1287,4,5,Dodgers
+Game_1288,9,8,Blue Jays
+Game_1289,7,14,Dodgers
+Game_1290,3,1,Blue Jays
+Game_1291,6,2,Blue Jays
+Game_1292,2,1,Blue Jays
+Game_1293,5,4,Blue Jays
+Game_1294,3,1,Blue Jays
+Game_1295,5,7,Dodgers
+Game_1296,2,10,Dodgers
+Game_1297,6,3,Blue Jays
+Game_1298,6,4,Blue Jays
+Game_1299,0,5,Dodgers
+Game_1300,1,5,Dodgers
+Game_1301,5,11,Dodgers
+Game_1302,1,7,Dodgers
+Game_1303,5,2,Blue Jays
+Game_1304,4,3,Blue Jays
+Game_1305,10,8,Blue Jays
+Game_1306,10,9,Blue Jays
+Game_1307,3,5,Dodgers
+Game_1308,5,4,Blue Jays
+Game_1309,9,4,Blue Jays
+Game_1310,5,8,Dodgers
+Game_1311,6,2,Blue Jays
+Game_1312,5,1,Blue Jays
+Game_1313,2,3,Dodgers
+Game_1314,0,7,Dodgers
+Game_1315,8,7,Blue Jays
+Game_1316,3,4,Dodgers
+Game_1317,4,3,Blue Jays
+Game_1318,0,5,Dodgers
+Game_1319,3,7,Dodgers
+Game_1320,4,0,Blue Jays
+Game_1321,2,7,Dodgers
+Game_1322,9,7,Blue Jays
+Game_1323,2,9,Dodgers
+Game_1324,5,7,Dodgers
+Game_1325,4,1,Blue Jays
+Game_1326,8,11,Dodgers
+Game_1327,1,2,Dodgers
+Game_1328,6,1,Blue Jays
+Game_1329,2,11,Dodgers
+Game_1330,2,5,Dodgers
+Game_1331,10,9,Blue Jays
+Game_1332,5,3,Blue Jays
+Game_1333,3,7,Dodgers
+Game_1334,2,5,Dodgers
+Game_1335,1,7,Dodgers
+Game_1336,6,4,Blue Jays
+Game_1337,2,1,Blue Jays
+Game_1338,7,6,Blue Jays
+Game_1339,1,9,Dodgers
+Game_1340,7,6,Blue Jays
+Game_1341,3,8,Dodgers
+Game_1342,5,7,Dodgers
+Game_1343,6,8,Dodgers
+Game_1344,5,4,Blue Jays
+Game_1345,6,10,Dodgers
+Game_1346,9,8,Blue Jays
+Game_1347,3,8,Dodgers
+Game_1348,8,6,Blue Jays
+Game_1349,4,2,Blue Jays
+Game_1350,8,1,Blue Jays
+Game_1351,5,13,Dodgers
+Game_1352,2,5,Dodgers
+Game_1353,4,3,Blue Jays
+Game_1354,5,2,Blue Jays
+Game_1355,5,3,Blue Jays
+Game_1356,2,7,Dodgers
+Game_1357,5,8,Dodgers
+Game_1358,5,0,Blue Jays
+Game_1359,2,3,Dodgers
+Game_1360,11,8,Blue Jays
+Game_1361,1,7,Dodgers
+Game_1362,2,9,Dodgers
+Game_1363,1,3,Dodgers
+Game_1364,2,5,Dodgers
+Game_1365,4,10,Dodgers
+Game_1366,3,2,Blue Jays
+Game_1367,5,4,Blue Jays
+Game_1368,2,0,Blue Jays
+Game_1369,11,4,Blue Jays
+Game_1370,1,2,Dodgers
+Game_1371,1,3,Dodgers
+Game_1372,3,5,Dodgers
+Game_1373,4,8,Dodgers
+Game_1374,3,2,Blue Jays
+Game_1375,5,8,Dodgers
+Game_1376,1,2,Dodgers
+Game_1377,7,9,Dodgers
+Game_1378,3,2,Blue Jays
+Game_1379,3,6,Dodgers
+Game_1380,1,5,Dodgers
+Game_1381,5,4,Blue Jays
+Game_1382,4,3,Blue Jays
+Game_1383,3,5,Dodgers
+Game_1384,5,4,Blue Jays
+Game_1385,1,3,Dodgers
+Game_1386,1,8,Dodgers
+Game_1387,6,4,Blue Jays
+Game_1388,6,3,Blue Jays
+Game_1389,0,3,Dodgers
+Game_1390,8,4,Blue Jays
+Game_1391,6,5,Blue Jays
+Game_1392,6,9,Dodgers
+Game_1393,9,4,Blue Jays
+Game_1394,1,7,Dodgers
+Game_1395,5,4,Blue Jays
+Game_1396,2,8,Dodgers
+Game_1397,2,1,Blue Jays
+Game_1398,1,9,Dodgers
+Game_1399,3,0,Blue Jays
+Game_1400,12,7,Blue Jays
+Game_1401,12,7,Blue Jays
+Game_1402,9,7,Blue Jays
+Game_1403,5,4,Blue Jays
+Game_1404,4,5,Dodgers
+Game_1405,2,3,Dodgers
+Game_1406,4,8,Dodgers
+Game_1407,2,1,Blue Jays
+Game_1408,2,0,Blue Jays
+Game_1409,4,2,Blue Jays
+Game_1410,3,11,Dodgers
+Game_1411,3,6,Dodgers
+Game_1412,12,3,Blue Jays
+Game_1413,0,6,Dodgers
+Game_1414,10,5,Blue Jays
+Game_1415,2,5,Dodgers
+Game_1416,4,0,Blue Jays
+Game_1417,0,8,Dodgers
+Game_1418,4,3,Blue Jays
+Game_1419,1,10,Dodgers
+Game_1420,5,11,Dodgers
+Game_1421,1,6,Dodgers
+Game_1422,8,0,Blue Jays
+Game_1423,3,2,Blue Jays
+Game_1424,6,7,Dodgers
+Game_1425,4,0,Blue Jays
+Game_1426,2,7,Dodgers
+Game_1427,2,9,Dodgers
+Game_1428,2,4,Dodgers
+Game_1429,2,14,Dodgers
+Game_1430,2,3,Dodgers
+Game_1431,5,8,Dodgers
+Game_1432,8,5,Blue Jays
+Game_1433,6,9,Dodgers
+Game_1434,9,4,Blue Jays
+Game_1435,6,5,Blue Jays
+Game_1436,9,6,Blue Jays
+Game_1437,1,0,Blue Jays
+Game_1438,2,1,Blue Jays
+Game_1439,2,0,Blue Jays
+Game_1440,1,2,Dodgers
+Game_1441,5,4,Blue Jays
+Game_1442,6,3,Blue Jays
+Game_1443,2,9,Dodgers
+Game_1444,4,6,Dodgers
+Game_1445,1,13,Dodgers
+Game_1446,4,10,Dodgers
+Game_1447,4,0,Blue Jays
+Game_1448,5,4,Blue Jays
+Game_1449,5,8,Dodgers
+Game_1450,10,5,Blue Jays
+Game_1451,1,8,Dodgers
+Game_1452,2,3,Dodgers
+Game_1453,3,6,Dodgers
+Game_1454,5,7,Dodgers
+Game_1455,4,5,Dodgers
+Game_1456,7,5,Blue Jays
+Game_1457,7,8,Dodgers
+Game_1458,4,11,Dodgers
+Game_1459,5,4,Blue Jays
+Game_1460,2,4,Dodgers
+Game_1461,1,6,Dodgers
+Game_1462,4,5,Dodgers
+Game_1463,5,3,Blue Jays
+Game_1464,6,4,Blue Jays
+Game_1465,6,3,Blue Jays
+Game_1466,1,2,Dodgers
+Game_1467,6,0,Blue Jays
+Game_1468,4,11,Dodgers
+Game_1469,7,3,Blue Jays
+Game_1470,9,5,Blue Jays
+Game_1471,1,4,Dodgers
+Game_1472,7,12,Dodgers
+Game_1473,4,14,Dodgers
+Game_1474,16,3,Blue Jays
+Game_1475,14,5,Blue Jays
+Game_1476,4,2,Blue Jays
+Game_1477,9,1,Blue Jays
+Game_1478,6,9,Dodgers
+Game_1479,10,18,Dodgers
+Game_1480,3,4,Dodgers
+Game_1481,7,5,Blue Jays
+Game_1482,0,4,Dodgers
+Game_1483,3,5,Dodgers
+Game_1484,1,3,Dodgers
+Game_1485,3,12,Dodgers
+Game_1486,8,4,Blue Jays
+Game_1487,2,4,Dodgers
+Game_1488,4,6,Dodgers
+Game_1489,2,11,Dodgers
+Game_1490,5,15,Dodgers
+Game_1491,2,6,Dodgers
+Game_1492,9,5,Blue Jays
+Game_1493,3,6,Dodgers
+Game_1494,3,5,Dodgers
+Game_1495,0,6,Dodgers
+Game_1496,3,2,Blue Jays
+Game_1497,4,8,Dodgers
+Game_1498,4,2,Blue Jays
+Game_1499,0,8,Dodgers
+Game_1500,4,6,Dodgers
+Game_1501,8,7,Blue Jays
+Game_1502,4,6,Dodgers
+Game_1503,3,4,Dodgers
+Game_1504,6,5,Blue Jays
+Game_1505,6,3,Blue Jays
+Game_1506,5,3,Blue Jays
+Game_1507,4,0,Blue Jays
+Game_1508,2,3,Dodgers
+Game_1509,6,5,Blue Jays
+Game_1510,11,6,Blue Jays
+Game_1511,4,5,Dodgers
+Game_1512,7,6,Blue Jays
+Game_1513,3,6,Dodgers
+Game_1514,2,1,Blue Jays
+Game_1515,3,6,Dodgers
+Game_1516,2,11,Dodgers
+Game_1517,5,6,Dodgers
+Game_1518,5,3,Blue Jays
+Game_1519,9,4,Blue Jays
+Game_1520,5,4,Blue Jays
+Game_1521,3,5,Dodgers
+Game_1522,8,3,Blue Jays
+Game_1523,6,7,Dodgers
+Game_1524,1,4,Dodgers
+Game_1525,1,8,Dodgers
+Game_1526,10,2,Blue Jays
+Game_1527,5,15,Dodgers
+Game_1528,9,8,Blue Jays
+Game_1529,4,6,Dodgers
+Game_1530,4,5,Dodgers
+Game_1531,5,2,Blue Jays
+Game_1532,1,5,Dodgers
+Game_1533,6,0,Blue Jays
+Game_1534,2,5,Dodgers
+Game_1535,7,15,Dodgers
+Game_1536,11,6,Blue Jays
+Game_1537,14,11,Blue Jays
+Game_1538,0,2,Dodgers
+Game_1539,6,5,Blue Jays
+Game_1540,1,7,Dodgers
+Game_1541,7,6,Blue Jays
+Game_1542,5,1,Blue Jays
+Game_1543,9,6,Blue Jays
+Game_1544,2,4,Dodgers
+Game_1545,4,2,Blue Jays
+Game_1546,5,3,Blue Jays
+Game_1547,9,3,Blue Jays
+Game_1548,1,4,Dodgers
+Game_1549,2,0,Blue Jays
+Game_1550,9,3,Blue Jays
+Game_1551,1,18,Dodgers
+Game_1552,6,1,Blue Jays
+Game_1553,5,3,Blue Jays
+Game_1554,4,5,Dodgers
+Game_1555,3,6,Dodgers
+Game_1556,5,12,Dodgers
+Game_1557,3,2,Blue Jays
+Game_1558,3,4,Dodgers
+Game_1559,2,1,Blue Jays
+Game_1560,5,0,Blue Jays
+Game_1561,15,8,Blue Jays
+Game_1562,3,1,Blue Jays
+Game_1563,7,6,Blue Jays
+Game_1564,6,3,Blue Jays
+Game_1565,4,3,Blue Jays
+Game_1566,10,3,Blue Jays
+Game_1567,4,8,Dodgers
+Game_1568,3,4,Dodgers
+Game_1569,8,5,Blue Jays
+Game_1570,11,5,Blue Jays
+Game_1571,7,8,Dodgers
+Game_1572,4,2,Blue Jays
+Game_1573,3,2,Blue Jays
+Game_1574,10,1,Blue Jays
+Game_1575,7,5,Blue Jays
+Game_1576,4,5,Dodgers
+Game_1577,1,8,Dodgers
+Game_1578,6,4,Blue Jays
+Game_1579,5,9,Dodgers
+Game_1580,3,11,Dodgers
+Game_1581,2,0,Blue Jays
+Game_1582,6,5,Blue Jays
+Game_1583,2,3,Dodgers
+Game_1584,8,11,Dodgers
+Game_1585,5,4,Blue Jays
+Game_1586,5,4,Blue Jays
+Game_1587,3,4,Dodgers
+Game_1588,8,5,Blue Jays
+Game_1589,1,10,Dodgers
+Game_1590,15,12,Blue Jays
+Game_1591,3,15,Dodgers
+Game_1592,5,1,Blue Jays
+Game_1593,3,4,Dodgers
+Game_1594,1,6,Dodgers
+Game_1595,0,3,Dodgers
+Game_1596,10,13,Dodgers
+Game_1597,4,3,Blue Jays
+Game_1598,0,5,Dodgers
+Game_1599,3,7,Dodgers
+Game_1600,4,3,Blue Jays
+Game_1601,1,13,Dodgers
+Game_1602,3,7,Dodgers
+Game_1603,10,6,Blue Jays
+Game_1604,2,5,Dodgers
+Game_1605,0,2,Dodgers
+Game_1606,9,0,Blue Jays
+Game_1607,4,8,Dodgers
+Game_1608,1,0,Blue Jays
+Game_1609,9,2,Blue Jays
+Game_1610,7,2,Blue Jays
+Game_1611,4,3,Blue Jays
+Game_1612,5,8,Dodgers
+Game_1613,4,5,Dodgers
+Game_1614,2,1,Blue Jays
+Game_1615,5,8,Dodgers
+Game_1616,1,3,Dodgers
+Game_1617,3,2,Blue Jays
+Game_1618,1,8,Dodgers
+Game_1619,3,5,Dodgers
+Game_1620,6,3,Blue Jays
+Game_1621,0,8,Dodgers
+Game_1622,8,2,Blue Jays
+Game_1623,1,3,Dodgers
+Game_1624,8,6,Blue Jays
+Game_1625,5,7,Dodgers
+Game_1626,0,5,Dodgers
+Game_1627,6,4,Blue Jays
+Game_1628,3,0,Blue Jays
+Game_1629,2,4,Dodgers
+Game_1630,3,1,Blue Jays
+Game_1631,2,7,Dodgers
+Game_1632,5,11,Dodgers
+Game_1633,7,5,Blue Jays
+Game_1634,4,0,Blue Jays
+Game_1635,2,0,Blue Jays
+Game_1636,2,4,Dodgers
+Game_1637,2,5,Dodgers
+Game_1638,9,1,Blue Jays
+Game_1639,2,4,Dodgers
+Game_1640,4,3,Blue Jays
+Game_1641,1,4,Dodgers
+Game_1642,5,3,Blue Jays
+Game_1643,0,1,Dodgers
+Game_1644,7,2,Blue Jays
+Game_1645,3,4,Dodgers
+Game_1646,6,7,Dodgers
+Game_1647,3,2,Blue Jays
+Game_1648,4,2,Blue Jays
+Game_1649,1,2,Dodgers
+Game_1650,0,5,Dodgers
+Game_1651,5,2,Blue Jays
+Game_1652,2,6,Dodgers
+Game_1653,2,7,Dodgers
+Game_1654,6,1,Blue Jays
+Game_1655,8,0,Blue Jays
+Game_1656,3,4,Dodgers
+Game_1657,4,3,Blue Jays
+Game_1658,9,12,Dodgers
+Game_1659,2,4,Dodgers
+Game_1660,6,5,Blue Jays
+Game_1661,0,5,Dodgers
+Game_1662,0,2,Dodgers
+Game_1663,11,2,Blue Jays
+Game_1664,7,3,Blue Jays
+Game_1665,8,4,Blue Jays
+Game_1666,2,6,Dodgers
+Game_1667,0,1,Dodgers
+Game_1668,12,0,Blue Jays
+Game_1669,14,2,Blue Jays
+Game_1670,6,4,Blue Jays
+Game_1671,3,10,Dodgers
+Game_1672,5,6,Dodgers
+Game_1673,2,4,Dodgers
+Game_1674,0,8,Dodgers
+Game_1675,2,4,Dodgers
+Game_1676,6,0,Blue Jays
+Game_1677,5,7,Dodgers
+Game_1678,4,6,Dodgers
+Game_1679,1,3,Dodgers
+Game_1680,5,4,Blue Jays
+Game_1681,1,5,Dodgers
+Game_1682,9,6,Blue Jays
+Game_1683,6,0,Blue Jays
+Game_1684,2,5,Dodgers
+Game_1685,10,6,Blue Jays
+Game_1686,9,3,Blue Jays
+Game_1687,9,7,Blue Jays
+Game_1688,3,4,Dodgers
+Game_1689,4,13,Dodgers
+Game_1690,4,5,Dodgers
+Game_1691,7,6,Blue Jays
+Game_1692,1,11,Dodgers
+Game_1693,4,1,Blue Jays
+Game_1694,1,3,Dodgers
+Game_1695,6,3,Blue Jays
+Game_1696,6,12,Dodgers
+Game_1697,4,6,Dodgers
+Game_1698,2,6,Dodgers
+Game_1699,4,2,Blue Jays
+Game_1700,4,1,Blue Jays
+Game_1701,8,6,Blue Jays
+Game_1702,5,8,Dodgers
+Game_1703,4,9,Dodgers
+Game_1704,6,4,Blue Jays
+Game_1705,0,6,Dodgers
+Game_1706,6,5,Blue Jays
+Game_1707,4,3,Blue Jays
+Game_1708,5,3,Blue Jays
+Game_1709,2,1,Blue Jays
+Game_1710,12,10,Blue Jays
+Game_1711,5,8,Dodgers
+Game_1712,5,1,Blue Jays
+Game_1713,4,0,Blue Jays
+Game_1714,6,4,Blue Jays
+Game_1715,2,3,Dodgers
+Game_1716,4,8,Dodgers
+Game_1717,5,4,Blue Jays
+Game_1718,6,0,Blue Jays
+Game_1719,0,3,Dodgers
+Game_1720,8,9,Dodgers
+Game_1721,0,1,Dodgers
+Game_1722,12,5,Blue Jays
+Game_1723,1,9,Dodgers
+Game_1724,8,11,Dodgers
+Game_1725,1,8,Dodgers
+Game_1726,3,8,Dodgers
+Game_1727,5,4,Blue Jays
+Game_1728,1,4,Dodgers
+Game_1729,8,1,Blue Jays
+Game_1730,3,6,Dodgers
+Game_1731,3,4,Dodgers
+Game_1732,3,6,Dodgers
+Game_1733,10,6,Blue Jays
+Game_1734,6,0,Blue Jays
+Game_1735,0,9,Dodgers
+Game_1736,0,5,Dodgers
+Game_1737,6,5,Blue Jays
+Game_1738,5,6,Dodgers
+Game_1739,3,5,Dodgers
+Game_1740,5,9,Dodgers
+Game_1741,1,3,Dodgers
+Game_1742,9,6,Blue Jays
+Game_1743,5,8,Dodgers
+Game_1744,3,16,Dodgers
+Game_1745,7,9,Dodgers
+Game_1746,3,8,Dodgers
+Game_1747,3,9,Dodgers
+Game_1748,6,8,Dodgers
+Game_1749,4,2,Blue Jays
+Game_1750,5,8,Dodgers
+Game_1751,1,6,Dodgers
+Game_1752,4,1,Blue Jays
+Game_1753,5,4,Blue Jays
+Game_1754,8,11,Dodgers
+Game_1755,2,0,Blue Jays
+Game_1756,5,7,Dodgers
+Game_1757,7,4,Blue Jays
+Game_1758,3,2,Blue Jays
+Game_1759,6,13,Dodgers
+Game_1760,3,10,Dodgers
+Game_1761,0,5,Dodgers
+Game_1762,8,4,Blue Jays
+Game_1763,4,2,Blue Jays
+Game_1764,2,3,Dodgers
+Game_1765,2,4,Dodgers
+Game_1766,5,4,Blue Jays
+Game_1767,4,12,Dodgers
+Game_1768,4,8,Dodgers
+Game_1769,8,5,Blue Jays
+Game_1770,1,3,Dodgers
+Game_1771,2,12,Dodgers
+Game_1772,4,1,Blue Jays
+Game_1773,6,3,Blue Jays
+Game_1774,4,1,Blue Jays
+Game_1775,4,10,Dodgers
+Game_1776,5,3,Blue Jays
+Game_1777,5,8,Dodgers
+Game_1778,0,13,Dodgers
+Game_1779,18,7,Blue Jays
+Game_1780,3,4,Dodgers
+Game_1781,11,7,Blue Jays
+Game_1782,6,4,Blue Jays
+Game_1783,5,4,Blue Jays
+Game_1784,9,4,Blue Jays
+Game_1785,3,11,Dodgers
+Game_1786,0,4,Dodgers
+Game_1787,0,12,Dodgers
+Game_1788,13,8,Blue Jays
+Game_1789,4,3,Blue Jays
+Game_1790,7,6,Blue Jays
+Game_1791,6,9,Dodgers
+Game_1792,10,7,Blue Jays
+Game_1793,6,1,Blue Jays
+Game_1794,3,10,Dodgers
+Game_1795,5,8,Dodgers
+Game_1796,11,7,Blue Jays
+Game_1797,2,3,Dodgers
+Game_1798,11,9,Blue Jays
+Game_1799,7,2,Blue Jays
+Game_1800,14,2,Blue Jays
+Game_1801,4,7,Dodgers
+Game_1802,2,5,Dodgers
+Game_1803,4,1,Blue Jays
+Game_1804,3,4,Dodgers
+Game_1805,2,4,Dodgers
+Game_1806,4,6,Dodgers
+Game_1807,11,18,Dodgers
+Game_1808,0,8,Dodgers
+Game_1809,0,7,Dodgers
+Game_1810,2,6,Dodgers
+Game_1811,6,4,Blue Jays
+Game_1812,3,7,Dodgers
+Game_1813,1,5,Dodgers
+Game_1814,4,7,Dodgers
+Game_1815,11,7,Blue Jays
+Game_1816,5,11,Dodgers
+Game_1817,2,7,Dodgers
+Game_1818,3,2,Blue Jays
+Game_1819,3,8,Dodgers
+Game_1820,3,6,Dodgers
+Game_1821,0,6,Dodgers
+Game_1822,7,8,Dodgers
+Game_1823,5,1,Blue Jays
+Game_1824,5,0,Blue Jays
+Game_1825,14,1,Blue Jays
+Game_1826,6,12,Dodgers
+Game_1827,3,1,Blue Jays
+Game_1828,1,4,Dodgers
+Game_1829,4,5,Dodgers
+Game_1830,3,6,Dodgers
+Game_1831,8,9,Dodgers
+Game_1832,8,7,Blue Jays
+Game_1833,3,4,Dodgers
+Game_1834,4,6,Dodgers
+Game_1835,0,7,Dodgers
+Game_1836,5,7,Dodgers
+Game_1837,9,6,Blue Jays
+Game_1838,3,2,Blue Jays
+Game_1839,0,7,Dodgers
+Game_1840,0,11,Dodgers
+Game_1841,16,9,Blue Jays
+Game_1842,1,4,Dodgers
+Game_1843,4,5,Dodgers
+Game_1844,2,5,Dodgers
+Game_1845,5,6,Dodgers
+Game_1846,8,0,Blue Jays
+Game_1847,6,4,Blue Jays
+Game_1848,4,8,Dodgers
+Game_1849,3,9,Dodgers
+Game_1850,0,11,Dodgers
+Game_1851,1,8,Dodgers
+Game_1852,2,7,Dodgers
+Game_1853,1,3,Dodgers
+Game_1854,2,11,Dodgers
+Game_1855,7,3,Blue Jays
+Game_1856,6,5,Blue Jays
+Game_1857,6,5,Blue Jays
+Game_1858,9,6,Blue Jays
+Game_1859,3,5,Dodgers
+Game_1860,2,7,Dodgers
+Game_1861,3,4,Dodgers
+Game_1862,3,7,Dodgers
+Game_1863,4,2,Blue Jays
+Game_1864,6,0,Blue Jays
+Game_1865,12,4,Blue Jays
+Game_1866,7,8,Dodgers
+Game_1867,4,2,Blue Jays
+Game_1868,1,6,Dodgers
+Game_1869,2,7,Dodgers
+Game_1870,0,5,Dodgers
+Game_1871,8,4,Blue Jays
+Game_1872,3,6,Dodgers
+Game_1873,5,7,Dodgers
+Game_1874,6,0,Blue Jays
+Game_1875,2,3,Dodgers
+Game_1876,2,9,Dodgers
+Game_1877,5,0,Blue Jays
+Game_1878,12,6,Blue Jays
+Game_1879,5,0,Blue Jays
+Game_1880,3,7,Dodgers
+Game_1881,13,6,Blue Jays
+Game_1882,9,15,Dodgers
+Game_1883,8,7,Blue Jays
+Game_1884,2,5,Dodgers
+Game_1885,9,3,Blue Jays
+Game_1886,4,2,Blue Jays
+Game_1887,3,2,Blue Jays
+Game_1888,11,9,Blue Jays
+Game_1889,5,7,Dodgers
+Game_1890,5,7,Dodgers
+Game_1891,7,6,Blue Jays
+Game_1892,7,12,Dodgers
+Game_1893,4,5,Dodgers
+Game_1894,1,0,Blue Jays
+Game_1895,7,10,Dodgers
+Game_1896,6,5,Blue Jays
+Game_1897,2,3,Dodgers
+Game_1898,5,3,Blue Jays
+Game_1899,1,3,Dodgers
+Game_1900,6,2,Blue Jays
+Game_1901,4,8,Dodgers
+Game_1902,1,3,Dodgers
+Game_1903,5,13,Dodgers
+Game_1904,2,3,Dodgers
+Game_1905,2,4,Dodgers
+Game_1906,3,7,Dodgers
+Game_1907,3,7,Dodgers
+Game_1908,7,5,Blue Jays
+Game_1909,2,6,Dodgers
+Game_1910,5,10,Dodgers
+Game_1911,10,6,Blue Jays
+Game_1912,4,1,Blue Jays
+Game_1913,11,2,Blue Jays
+Game_1914,5,3,Blue Jays
+Game_1915,4,1,Blue Jays
+Game_1916,1,4,Dodgers
+Game_1917,4,3,Blue Jays
+Game_1918,3,6,Dodgers
+Game_1919,0,14,Dodgers
+Game_1920,1,12,Dodgers
+Game_1921,2,4,Dodgers
+Game_1922,8,3,Blue Jays
+Game_1923,10,4,Blue Jays
+Game_1924,4,2,Blue Jays
+Game_1925,8,6,Blue Jays
+Game_1926,4,0,Blue Jays
+Game_1927,14,4,Blue Jays
+Game_1928,0,4,Dodgers
+Game_1929,2,0,Blue Jays
+Game_1930,16,13,Blue Jays
+Game_1931,4,1,Blue Jays
+Game_1932,0,3,Dodgers
+Game_1933,0,4,Dodgers
+Game_1934,4,2,Blue Jays
+Game_1935,0,4,Dodgers
+Game_1936,4,8,Dodgers
+Game_1937,8,9,Dodgers
+Game_1938,4,3,Blue Jays
+Game_1939,4,2,Blue Jays
+Game_1940,10,2,Blue Jays
+Game_1941,4,3,Blue Jays
+Game_1942,3,11,Dodgers
+Game_1943,2,3,Dodgers
+Game_1944,13,7,Blue Jays
+Game_1945,2,3,Dodgers
+Game_1946,2,1,Blue Jays
+Game_1947,1,6,Dodgers
+Game_1948,9,2,Blue Jays
+Game_1949,7,6,Blue Jays
+Game_1950,6,7,Dodgers
+Game_1951,14,17,Dodgers
+Game_1952,9,10,Dodgers
+Game_1953,14,0,Blue Jays
+Game_1954,1,6,Dodgers
+Game_1955,0,6,Dodgers
+Game_1956,5,6,Dodgers
+Game_1957,10,4,Blue Jays
+Game_1958,8,5,Blue Jays
+Game_1959,3,5,Dodgers
+Game_1960,6,7,Dodgers
+Game_1961,9,2,Blue Jays
+Game_1962,5,3,Blue Jays
+Game_1963,9,3,Blue Jays
+Game_1964,9,5,Blue Jays
+Game_1965,0,7,Dodgers
+Game_1966,8,2,Blue Jays
+Game_1967,2,3,Dodgers
+Game_1968,5,2,Blue Jays
+Game_1969,6,2,Blue Jays
+Game_1970,5,4,Blue Jays
+Game_1971,7,3,Blue Jays
+Game_1972,7,9,Dodgers
+Game_1973,3,4,Dodgers
+Game_1974,0,16,Dodgers
+Game_1975,5,4,Blue Jays
+Game_1976,2,15,Dodgers
+Game_1977,6,13,Dodgers
+Game_1978,9,7,Blue Jays
+Game_1979,1,6,Dodgers
+Game_1980,1,4,Dodgers
+Game_1981,3,5,Dodgers
+Game_1982,0,4,Dodgers
+Game_1983,9,4,Blue Jays
+Game_1984,3,6,Dodgers
+Game_1985,3,11,Dodgers
+Game_1986,2,6,Dodgers
+Game_1987,7,5,Blue Jays
+Game_1988,2,3,Dodgers
+Game_1989,3,1,Blue Jays
+Game_1990,13,12,Blue Jays
+Game_1991,7,2,Blue Jays
+Game_1992,2,9,Dodgers
+Game_1993,9,0,Blue Jays
+Game_1994,3,4,Dodgers
+Game_1995,5,4,Blue Jays
+Game_1996,10,9,Blue Jays
+Game_1997,1,10,Dodgers
+Game_1998,3,2,Blue Jays
+Game_1999,6,3,Blue Jays
+Game_2000,3,5,Dodgers
