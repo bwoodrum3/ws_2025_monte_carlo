@@ -204,3 +204,9 @@ ws_2025_monte_carlo/
 - Weather / park effects and neutralization factors  
 - Full **season standings and WAR600** tracking  
 - Player-fatigue carry-over between games  
+
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 License (CC BY-NC 4.0).  
+You may view the full license in the `LICENSE` file or at:  
+https://creativecommons.org/licenses/by-nc/4.0/
