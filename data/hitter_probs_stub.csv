@@ -1,0 +1,4 @@
+season,bpid,mlbam_id,full_name,pit_hand,bats,pa,out_rate_pred,so_rate_pred,bb_rate_pred,hbp_rate_pred,roe_rate_pred,single_rate_pred,double_rate_pred,triple_rate_pred,hr_rate_pred,drc_plus
+2025,10001,100001,Johnny Twoshoes,R,L,400,0.3397,0.2436,0.1569,0.0043,0.003,0.1045,0.0328,0.0082,0.107,200
+2025,10002,100002,Bill Baseball,L,R,190,0.4124,0.1997,0.1304,0.0092,0.0052,0.1446,0.0422,0.0018,0.0545,145
+2025,10002,100002,Bill Baseball,R,R,410,0.4244,0.1988,0.11,0.0145,0.0051,0.1488,0.0405,0.0019,0.0559,120
