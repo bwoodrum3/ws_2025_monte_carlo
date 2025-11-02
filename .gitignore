@@ -1,4 +1,4 @@
 .env
 ws_2025_table_creation.sql
-hitter_probs.csv
-pitcher_probs.csv
+ws_2025_monte_carlo\data\hitter_probs.csv
+ws_2025_monte_carlo\data\pitcher_probs.csv
