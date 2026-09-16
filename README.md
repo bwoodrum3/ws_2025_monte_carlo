@@ -1,4 +1,4 @@
-# ⚾ Monte Carlo Baseball Game Simulator
+#  Monte Carlo Baseball Game Simulator
 
 ## Overview
 This project is a full-season–style **Monte Carlo simulation** for modeling baseball game outcomes between two rosters — in this example, the *Toronto Blue Jays* and *Los Angeles Dodgers*.  
@@ -8,7 +8,7 @@ The system blends **player-specific rates** with **context-aware bullpen and fat
 
 ---
 
-## 🎯 Core Features
+##  Core Features
 
 ### 1. Probabilistic Matchup Model
 Each plate appearance (PA) outcome is drawn from combined hitter and pitcher probabilities:
