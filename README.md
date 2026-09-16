@@ -24,7 +24,7 @@ Supported outcomes:
 ### 2. Pitcher Usage Model
 Pitching behavior is governed by realistic stamina, fatigue, and decision-making rules.
 
-#### 🧢 Starters
+#### Starters
 - Expected to face roughly **18–23 batters** before fatigue.  
 - If pitching efficiently (≤ 2 earned runs), ~10–15% of starters can extend to **24–27 batters**.  
 - Pulled early if:
@@ -32,10 +32,10 @@ Pitching behavior is governed by realistic stamina, fatigue, and decision-making
   - 3+ runs allowed after 15 batters.  
 - Gradual fatigue chance grows after ~19 batters faced.  
 - Automatically removed once exceeding **27 batters faced**.
+.
+ *Result:* Starters behave like modern MLB usage — capable of 5–7 innings on good days, but vulnerable to quick hooks if struggling.
 
-> 💡 *Result:* Starters behave like modern MLB usage — capable of 5–7 innings on good days, but vulnerable to quick hooks if struggling.
-
-#### 🔥 Relievers
+#### Relievers
 - Must face **at least 3 batters** unless ending an inning.  
 - Assigned a random **usage cap (4–9 batters)**, representing different roles (short vs long relief).  
 - Removed if:
@@ -45,7 +45,7 @@ Pitching behavior is governed by realistic stamina, fatigue, and decision-making
 - ~20% chance to face one extra batter beyond the cap (manager discretion).  
 - May start a new inning, but won’t typically cross multiple innings without necessity.
 
-> 💡 *Result:* Bullpen arms cycle dynamically, producing realistic reliever turnover, emergency call-ins, and bullpen exhaustion.
+>  *Result:* Bullpen arms cycle dynamically, producing realistic reliever turnover, emergency call-ins, and bullpen exhaustion.
 
 ---
 
@@ -106,7 +106,7 @@ Boxscore files include both top and bottom halves (with `team` column) and suppo
 
 ---
 
-## 🧮 Example Analysis (Post-Sim)
+##  Example Analysis (Post-Sim)
 
 ```python
 # Highest combined scores
@@ -154,7 +154,7 @@ sns.histplot(results_df["Blue Jays"] - results_df["Dodgers"], bins=30)
 
 ---
 
-## ⚙️ Output Example
+##  Output Example
 
 **all_inning_boxscores.csv**
 
@@ -167,7 +167,7 @@ sns.histplot(results_df["Blue Jays"] - results_df["Dodgers"], bins=30)
 
 ---
 
-## 🧱 Project Structure
+##  Project Structure
 ```
 ws_2025_monte_carlo/
 │
@@ -189,7 +189,7 @@ ws_2025_monte_carlo/
 
 ---
 
-## 📈 Typical Runtime
+##  Typical Runtime
 
 | Simulation Count | Est. Runtime (modern laptop) |
 |:-----------------|:------------------------------|
@@ -199,7 +199,7 @@ ws_2025_monte_carlo/
 
 ---
 
-## 🧩 Future Enhancements
+##  Future Enhancements
 - Dynamic **manager AI** with bullpen-preservation logic  
 - Weather / park effects and neutralization factors  
 - Full **season standings and WAR600** tracking  
